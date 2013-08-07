@@ -9,25 +9,25 @@ For now, Lets start with What things are needed to be added here in clan page.
 
 ### List of Features to be added in clan page.
 
-1. User Role for Website Membership,
-	a. Super Duper Admin (ME) :P
-	b. Website Managers
-	c. ATC admins
-	d. ATC members
-	e. Counter Strike Players
-	f. Others Surfers.
-2. List of member's with the following details
-	a. Full Name
-	b. Address
-	c. Academic Level
-	d. Nick
-	e. Playing from
-	f. Good at
-	g. Weapon
-	h. Best Screenshot of playing
+1. <b>User Role for Website Membership</b>,<br>
+	a. Super Duper Admin (ME) :P <br>
+	b. Website Managers <br>
+	c. ATC admins <br>
+	d. ATC members <br>
+	e. Counter Strike Players <br>
+	f. Others Surfers.<br>
+2. <b>List of member's with the following details</b><br>
+	a. Full Name <br>
+	b. Address <br>
+	c. Academic Level <br>
+	d. Nick <br>
+	e. Playing from <br>
+	f. Good at <br>
+	g. Weapon <br>
+	h. Best Screenshot of playing <br>
 
-3. Gallery of Clan games and Clan memebers.
-4. Files of Clan games videos.
-5. Confession for Clan memebers
-6. Confession for Counter Strike Gamers.
-7. Blogs.
+3. <b>Gallery of Clan games and Clan memebers</b>.
+4. <b>Files of Clan games videos.</b>
+5. <b>Confession for Clan memebers.</b>
+6. <b>Confession for Counter Strike Gamers.</b>
+7. <b>Blogs.</b>
