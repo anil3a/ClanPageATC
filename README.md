@@ -8,3 +8,4 @@ Welcome to the clan Page of ATC. I would be created a GITHUB repository for shar
 For now, Lets start with What things are needed to be added here in clan page.
 
 
+## We had gone to Private Code Repository.. So we are not Showing Codes in here and this repositor will be only used for public 
