@@ -1,5 +1,6 @@
 ClanPageATC
 ===========
+Live Site url is http://clan.advtechcompany.com
 
 List of Clan Members and their descriptions.
 
@@ -10,7 +11,9 @@ For now, Lets start with What things are needed to be added here in clan page.
 
 ## We had gone to Private Code Repository.. So we are not Showing Codes in here and this repository will be only used for public Information.
 
-All Codes as Pull and updated to the website
+Codes are moved to https://bitbucket.org/anil3a user in private repository.
+
+All Codes are Pull and updated to the website.
 
 Please Check website for the Checkouts.
 
